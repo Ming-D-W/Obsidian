@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/※JS高级※/※JS高级※.md",
+                "file": "VUE/day05-生命周期+路由+组件缓存.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "※JS高级※"
-            }
-          },
-          {
-            "id": "bc1415ed94e2b211",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "day05-生命周期+路由+组件缓存"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "window.on",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "VUE/day05-生命周期+路由+组件缓存.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "day05-生命周期+路由+组件缓存 的大纲"
             }
           }
         ],
@@ -186,8 +176,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bc1415ed94e2b211",
+  "active": "84eb4c875adcb6e9",
   "lastOpenFiles": [
+    "VUE/day06-面经H5端-Vant（上）.md",
+    "VUE/day05-生命周期+路由+组件缓存.md",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "JavaScript/※JS高级※/※JS高级※.md",
+    "未命名.canvas",
     "VUE/day01-基础概念+vuecli+指令上.md",
     "VUE/day02-指令下+计算属性+侦听器.md",
     "HTML+CSS/01HTML.md",
@@ -196,7 +192,6 @@
     "JavaScript/※JS高级※/内置构造函数.md",
     "JavaScript/※JS高级※/解构赋值.md",
     "JavaScript/※JS高级※/防抖节流.md",
-    "JavaScript/※JS高级※/※JS高级※.md",
     "JavaScript/※JS基础※/※JS基础※.md",
     "JavaScript/※JS基础※/变量.md",
     "vue响应式原理.md",
@@ -205,17 +200,13 @@
     "JavaScript/※JS基础※/数组.md",
     "78.md",
     "原生AJAX.md",
-    "VUE/day05-生命周期+路由+组件缓存.md",
     "JavaScript/※JS高级※/函数/参数.md",
-    "未命名 1.canvas",
-    "未命名.canvas",
     "JavaScript/※JS基础※/转换为布尔型.md",
     "HTML+CSS/05CSS3选择器、伪元素、光标类型、浮动.md",
     "HTML+CSS/02CSS基础.md",
     "JavaScript/※JS高级※/深入对象.md",
     "JavaScript/ES6/2-ES6语法扩展.md",
     "JavaScript/ES6/1-ES6基础入门.md",
-    "JavaScript/ES6/3-ES6之Promise与Class类.md",
-    "JavaScript/ES6/5-HTTP、存储、Ajax.md"
+    "JavaScript/ES6/3-ES6之Promise与Class类.md"
   ]
 }
