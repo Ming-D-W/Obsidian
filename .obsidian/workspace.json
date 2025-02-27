@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "a1a5989435b1b894",
+    "type": "split",
+    "children": [
+      {
+        "id": "921a016d378a9813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84eb4c875adcb6e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/※JS高级※/※JS高级※.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "※JS高级※"
+            }
+          },
+          {
+            "id": "bc1415ed94e2b211",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30e0b83dabeb1078",
+    "type": "split",
+    "children": [
+      {
+        "id": "886e21a6d4ce50fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ba1db12ad1c3953",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c64b9262e5dad81a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "window.on",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c122fb920a36b542",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "7b340ed0ebba61fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "0241e610dae3e9de",
+    "type": "split",
+    "children": [
+      {
+        "id": "f17c1ee31755268a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0cb0d9244e33e0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "1cafc4be713125eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "0960ac6066d2f727",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7c9eb681d183078a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bc1415ed94e2b211",
+  "lastOpenFiles": [
+    "VUE/day01-基础概念+vuecli+指令上.md",
+    "VUE/day02-指令下+计算属性+侦听器.md",
+    "HTML+CSS/01HTML.md",
+    "iShot_2023-01-02_11.40.08.png",
+    "JavaScript/※JS高级※/异常处理.md",
+    "JavaScript/※JS高级※/内置构造函数.md",
+    "JavaScript/※JS高级※/解构赋值.md",
+    "JavaScript/※JS高级※/防抖节流.md",
+    "JavaScript/※JS高级※/※JS高级※.md",
+    "JavaScript/※JS基础※/※JS基础※.md",
+    "JavaScript/※JS基础※/变量.md",
+    "vue响应式原理.md",
+    "iShot_2023-01-02_11.40.08.png.md",
+    "JavaScript/※JS高级※/面向对象/继承.md",
+    "JavaScript/※JS基础※/数组.md",
+    "78.md",
+    "原生AJAX.md",
+    "VUE/day05-生命周期+路由+组件缓存.md",
+    "JavaScript/※JS高级※/函数/参数.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "JavaScript/※JS基础※/转换为布尔型.md",
+    "HTML+CSS/05CSS3选择器、伪元素、光标类型、浮动.md",
+    "HTML+CSS/02CSS基础.md",
+    "JavaScript/※JS高级※/深入对象.md",
+    "JavaScript/ES6/2-ES6语法扩展.md",
+    "JavaScript/ES6/1-ES6基础入门.md",
+    "JavaScript/ES6/3-ES6之Promise与Class类.md",
+    "JavaScript/ES6/5-HTTP、存储、Ajax.md"
+  ]
+}
